@@ -4,6 +4,8 @@ rest api tutorial
 This is rest API tutorial with EPILOGUE this is the fastest REST API ever made. :smile:
 
 # Dependencies USED
+
+```js
 "dependencies": {
     "body-parser": "^1.18.2",
     "epilogue": "^0.7.1",
@@ -13,3 +15,5 @@ This is rest API tutorial with EPILOGUE this is the fastest REST API ever made. 
     "restify": "^6.0.1",
     "sequelize": "^4.10.3"
   }
+```
+
